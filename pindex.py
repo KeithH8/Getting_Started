@@ -1,13 +1,6 @@
-The list
+theList = ['Letter', 'Jacket', 'Snake', 'Airplane', 'Hanger', 'Shoelace', 'Flag', 'Car']
 
-Letter
-Jacket
-Snake
-Airplane
-Hanger
-Shoelace
-Flag
-Car
+print(theList)
 
 The food list
 Grapes
