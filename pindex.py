@@ -8,3 +8,14 @@ print(foodList)
 
 totalList = theList + foodList
 print(totalList)
+
+
+" ".join(theList)
+" ".join(foodList)
+
+print(theList)
+print(foodList)
+
+" ".join(totalList)
+
+print(totalList)
