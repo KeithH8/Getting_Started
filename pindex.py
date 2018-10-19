@@ -2,11 +2,6 @@ theList = ['Letter', 'Jacket', 'Snake', 'Airplane', 'Hanger', 'Shoelace', 'Flag'
 
 print(theList)
 
-The food list
-Grapes
-Chicken
-Bananas
-Pudding
-Bread
-Corn
-Tofu
+foodList = ['Grapes', 'Chicken', 'Bananas', 'Pudding', 'Bread', 'Corn', 'Tofu']
+
+print(foodList)
